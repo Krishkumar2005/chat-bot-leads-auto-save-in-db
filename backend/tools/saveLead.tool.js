@@ -1,5 +1,5 @@
-import { Lead } from "../models/Lead.js";
-import { Session } from "../models/Session.js";
+import { Lead } from "../models/lead.js";
+import { Session } from "../models/session.js";
 
 export const saveLead =
     async ({

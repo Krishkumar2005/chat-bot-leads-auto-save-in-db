@@ -1,4 +1,4 @@
-import {Lead} from "../models/Lead.js";
+import {Lead} from "../models/lead.js";
 
 export const checkDuplicateLead =
     async ({ phoneNumber }) => {

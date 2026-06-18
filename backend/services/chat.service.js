@@ -21,7 +21,7 @@
 // Return To User
 
 
-import { Session } from "../models/Session.js";
+import { Session } from "../models/session.js";
 import { executeTool }
   from "./toolExecutor.service.js";
 
